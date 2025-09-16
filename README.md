@@ -29,7 +29,7 @@ Learn how to evaluate regression performance using metrics like R² and Mean Squ
 
 Clone this repository:
 
-git clone https://github.com/YOUR-USERNAME/house-price-prediction.git
+git clone https://github.com/Abhij1818/house-price-prediction/blob/main/House_price_prediction_using_Linear_Regression_.ipynb
 cd house-price-prediction
 
 
